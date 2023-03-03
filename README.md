@@ -1,5 +1,5 @@
 # Dice-Game
-
+deploy: https://stpkkk.github.io/Dice-Game/
 Pig-game(ludo) is a classic board game played between friends and family. Play the dice game of kings!
 
 GAME RULES:
@@ -16,4 +16,4 @@ The player with the greater value on the side of the dice wins.
 Contributing:
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Please make sure to update tests as appropriate.
 
-This game is a part of JavaScript Course to improve my skills!!!
+This game is a part of JavaScript Course, created to improve my skills!!!
